@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
