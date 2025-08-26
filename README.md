@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,5 +42,6 @@
 | ------- |
 | [0027-remove-element](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
