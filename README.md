@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -30,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
 ## String
 |  |
