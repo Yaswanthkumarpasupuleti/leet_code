@@ -47,4 +47,8 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
