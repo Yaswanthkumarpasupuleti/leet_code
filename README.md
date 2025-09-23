@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
