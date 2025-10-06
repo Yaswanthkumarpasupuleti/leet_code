@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Two Pointers
 |  |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0203-remove-linked-list-elements) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
