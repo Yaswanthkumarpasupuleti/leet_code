@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0283-move-zeroes) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
