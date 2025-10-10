@@ -52,6 +52,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0874-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
@@ -80,8 +82,13 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0874-backspace-string-compare) |
 ## Counting
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
