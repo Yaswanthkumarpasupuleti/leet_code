@@ -53,6 +53,7 @@
 | [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0874-backspace-string-compare) |
+| [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0874-backspace-string-compare) |
+| [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -91,4 +93,5 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0874-backspace-string-compare) |
+| [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
