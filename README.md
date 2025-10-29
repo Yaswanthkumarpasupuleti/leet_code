@@ -27,6 +27,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/Yaswanthkumarpasupuleti/leet_code/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
